@@ -1,0 +1,8 @@
+/Users/heatherthacker/workspace/HelloWorld/vehicles/bin/Debug/netcoreapp1.1/vehicles.deps.json
+/Users/heatherthacker/workspace/HelloWorld/vehicles/bin/Debug/netcoreapp1.1/vehicles.runtimeconfig.json
+/Users/heatherthacker/workspace/HelloWorld/vehicles/bin/Debug/netcoreapp1.1/vehicles.runtimeconfig.dev.json
+/Users/heatherthacker/workspace/HelloWorld/vehicles/bin/Debug/netcoreapp1.1/vehicles.dll
+/Users/heatherthacker/workspace/HelloWorld/vehicles/bin/Debug/netcoreapp1.1/vehicles.pdb
+/Users/heatherthacker/workspace/HelloWorld/vehicles/obj/Debug/netcoreapp1.1/vehicles.AssemblyInfo.cs
+/Users/heatherthacker/workspace/HelloWorld/vehicles/obj/Debug/netcoreapp1.1/vehicles.dll
+/Users/heatherthacker/workspace/HelloWorld/vehicles/obj/Debug/netcoreapp1.1/vehicles.pdb
