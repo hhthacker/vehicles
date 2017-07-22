@@ -1,8 +1,8 @@
 using System;
 
-namespace vehicles.Vehicles
+namespace vehicles
 {
-  public class Cessna : Vehicle, IAirBased
+  public class Cessna : IAirVehicle
   {
     public int Wheels { get; set; } = 3;
     public int Doors { get; set; } = 3;
@@ -10,12 +10,7 @@ namespace vehicles.Vehicles
     public bool Winged { get; set; } = true;
     public string TransmissionType { get; set; } = "None";
     public double EngineVolume { get; set; } = 31.1;
-    public double MaxAirSpeed { get; set; } = 309.0;
-
-    public void Drive()
-    {
-      throw new NotImplementedException();
-    }
+    public double MaxSpeed { get; set; } = 309.0;
 
     public void Fly()
     {
@@ -23,12 +18,12 @@ namespace vehicles.Vehicles
     }
     public void Start()
     {
-      throw new NotImplementedException();
+      Console.WriteLine("Ok Captain");
     }
 
-    public void Stop()
+    public void Land()
     {
-      throw new NotImplementedException();
+      Console.WriteLine("Bumps");
     }
   }
 }
